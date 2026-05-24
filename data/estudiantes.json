@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": "EST001",
+    "nombre_completo": "Ana Maria Lopez",
+    "edad": 20,
+    "semestre": 4,
+    "correo": "ana.lopez@universidad.edu",
+    "programa": "Ciencia de Datos",
+    "fecha_registro": "2026-05-24T11:39:56.553644"
+  },
+  {
+    "codigo": "EST002",
+    "nombre_completo": "Carlos Andres Ruiz Martinez",
+    "edad": 23,
+    "semestre": 7,
+    "correo": "carlos.ruiz.m@universidad.edu",
+    "programa": "Psicologia",
+    "fecha_registro": "2026-05-24T11:39:56.553845"
+  }
+]
